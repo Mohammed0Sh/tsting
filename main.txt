@@ -7,6 +7,10 @@ some work 2
 
 
 im working on login autheenticatio
+<<<<<<< HEAD
+righergiergireg
+=======
 main work
 
 
+>>>>>>> main
